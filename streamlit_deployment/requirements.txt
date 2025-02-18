@@ -1,0 +1,7 @@
+streamlit
+transformers
+TTS 
+boto3 
+cutlet 
+fugashi 
+unidic-lite
