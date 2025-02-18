@@ -1,4 +1,4 @@
-pip --upgrade
+--upgrade pip
 streamlit
 transformers
 TTS 
