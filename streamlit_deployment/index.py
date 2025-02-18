@@ -3,7 +3,9 @@ import streamlit as st
 import time
 from PIL import Image
 
-
+# Install dependencies 
+os.system("pip install streamlit transformers TTS boto3 cutlet fugashi unidic-lite")
+os.system("apt-get install -y espeak-ng mecab libmecab-dev mecab-ipadic-utf8")
 
 ##-----------------------##
 
