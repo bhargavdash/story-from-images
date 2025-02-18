@@ -1,6 +1,6 @@
 # we use gemini 2.0 flash to contextually translate the english story to multiple languages
 from google import genai
-client = genai.Client(api_key="AIzaSyAh3jABypOv6effFX_wh1iEmcIsOExm7Ks")
+client = genai.Client(api_key=GEMINI_API_KEY)
 
 # function to translate the english story to any target language
 def translate(text, target_lang):
