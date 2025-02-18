@@ -26,8 +26,8 @@ import torch
 import boto3
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
-aws_access_key_id = "AKIAVRUVQ5OD3E2RE5F5"
-aws_secret_access_key = "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"
+aws_access_key_id = ACCESS_KEY_ID
+aws_secret_access_key = SECRET_ACCESS_KEY_ID
 region_name = "us-east-1"
 
 s3 = boto3.client('s3',
