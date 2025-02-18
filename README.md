@@ -1,18 +1,27 @@
-# story-from-images
-A state of the art model to generate a story as text and audio output in multiple languages with multiple image inputs and selected genre.
+# **Story-from-Images** 📖✨
 
-Project Walkthrough Video:
-https://github.com/user-attachments/assets/75ea2498-1f48-49ec-8e6e-306f5028f37c
+A **state-of-the-art** AI model that generates compelling stories in **text and audio format** from multiple images, supporting **multiple languages** and user-selected genres.
 
+---
 
-🔹 Features
-✅ Image captioning using deep learning
-✅ Genre-based story generation with LLM (Gemini 2.0 Flash)
-✅ Text-to-speech conversion for an immersive experience
-✅ Streamlit-based web UI for easy interaction
+## 📽 **Project Walkthrough Video**
+[![Watch the Video](https://github.com/user-attachments/assets/75ea2498-1f48-49ec-8e6e-306f5028f37c)](https://github.com/user-attachments/assets/75ea2498-1f48-49ec-8e6e-306f5028f37c)
 
-🔹 Usage
-1️⃣ Upload a single or multiple images
-2️⃣ Choose a genre (Horror, Romantic, Fantasy, Psychological Thriller, Crime Fiction)
-3️⃣ Click 'Generate Story & Audio' to create a unique story
-4️⃣ Listen to the AI-narrated story
+---
+
+## 🔹 **Features**
+✅ **Image Captioning** using deep learning  
+✅ **Genre-Based Story Generation** with **LLM (Gemini 2.0 Flash)**  
+✅ **Text-to-Speech Conversion** for immersive storytelling  
+✅ **Streamlit-Based Web UI** for seamless user interaction  
+✅ **Multi-Language Support** for diverse storytelling experiences  
+
+---
+
+## 🔹 **Usage**
+1️⃣ **Upload** a single or multiple images  
+2️⃣ **Choose a genre** *(Horror, Romantic, Fantasy, Psychological Thriller, Crime Fiction, etc.)*  
+3️⃣ **Click 'Generate Story & Audio'** to create a unique AI-generated story  
+4️⃣ **Listen** to the AI-narrated story for a complete experience  
+
+---
