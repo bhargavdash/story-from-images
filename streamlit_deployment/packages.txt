@@ -1,5 +1,0 @@
--y 
-espeak-ng 
-mecab 
-libmecab-dev 
-mecab-ipadic-utf8
