@@ -20,8 +20,8 @@ A **state-of-the-art** AI model that generates compelling stories in **text and 
 
 ## 🔹 **Usage**
 1️⃣ **Upload** a single or multiple images  
-2️⃣ **Choose a genre** *(Horror, Romantic, Fantasy, Psychological Thriller, Crime Fiction, etc.)*  
-3️⃣ **Click 'Generate Story & Audio'** to create a unique AI-generated story  
+2️⃣ **Choose a genre** *(Horror, Romantic, Fantasy, Psychological Thriller, Crime Fiction)*  
+3️⃣ **Click 'Generate Story and Audio'** to create a unique AI-generated story  
 4️⃣ **Listen** to the AI-narrated story for a complete experience  
 
 ---
