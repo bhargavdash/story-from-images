@@ -9,7 +9,7 @@ Original file is located at
 
 # We use gemini 2.0 flash api to generate story from a list of captions and a genre
 from google import genai
-client = genai.Client(api_key="AIzaSyAh3jABypOv6effFX_wh1iEmcIsOExm7Ks")
+client = genai.Client(api_key=GEMINI_API_KEY)
 
 # function to generate story which takes a list of captions and a genre as input and retuns the story
 def generate_story(captions, genre):
