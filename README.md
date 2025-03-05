@@ -13,7 +13,7 @@ A **state-of-the-art** AI model that generates compelling stories in **text and 
 ✅ **Image Captioning** using deep learning  
 ✅ **Genre-Based Story Generation** with **LLM (Gemini 2.0 Flash)**  
 ✅ **Text-to-Speech Conversion** for immersive storytelling  
-✅ **Streamlit-Based Web UI** for seamless user interaction  
+✅ **React based Web UI** for seamless user interaction  
 ✅ **Multi-Language Support** for diverse storytelling experiences  
 
 ---
